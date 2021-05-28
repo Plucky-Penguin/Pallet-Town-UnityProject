@@ -12,56 +12,56 @@ AssetImportWorker0
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62257
+54975
 Successfully changed project path to: /Users/hnock23/Desktop/Pallet-Town-UnityProject/Pokemon Red - Pallet (GitHub)
 /Users/hnock23/Desktop/Pallet-Town-UnityProject/Pokemon Red - Pallet (GitHub)
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 86.95 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 74.91 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path /Users/hnock23/Desktop/Pallet-Town-UnityProject/Pokemon Red - Pallet (GitHub)/Assets
 GfxDevice: creating device client; threaded=0
-2021-05-26 14:32:36.479 Unity[47865:4247947] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-05-26 14:32:36.479 Unity[47865:4247947] Metal devices available: 1
-2021-05-26 14:32:36.479 Unity[47865:4247947] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
-2021-05-26 14:32:36.481 Unity[47865:4247947] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-28 09:08:58.112 Unity[51135:730670] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-28 09:08:58.112 Unity[51135:730670] Metal devices available: 1
+2021-05-28 09:08:58.112 Unity[51135:730670] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-28 09:08:58.113 Unity[51135:730670] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
 Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
 Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56865
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56135
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004953 seconds.
+Registered in 0.005321 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 132.80 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 64.84 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.466 seconds
+- Completed reload, in  3.066 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008320 seconds.
+Registered in 0.005850 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 57.64 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 71.43 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.505 seconds
+- Completed reload, in  1.670 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -69,43 +69,27 @@ Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Ren
 Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
 Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.23 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2737 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 198.8 MB.
 System memory in use after: 196.4 MB.
 
 Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 3147.
-Total: 7.661863 ms (FindLiveObjects: 0.614649 ms CreateObjectMapping: 0.493312 ms MarkObjects: 4.952724 ms  DeleteObjects: 1.599401 ms)
+Total: 5.271874 ms (FindLiveObjects: 0.813225 ms CreateObjectMapping: 0.350568 ms MarkObjects: 2.523964 ms  DeleteObjects: 1.582671 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Materials/Player Blue House color.mat
-  artifactKey: Guid(9692b46242fa5487ebd4454dc691fcdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Player Blue House color.mat using Guid(9692b46242fa5487ebd4454dc691fcdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ca2e8a05f7e1d601e8ecebbbf7589e') in 0.871926 seconds
-  Import took 0.880192 seconds .
+  path: Assets/Materials/Pokemon Room.mat
+  artifactKey: Guid(607ecd8804bc04dc09a2d8c78c696e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Pokemon Room.mat using Guid(607ecd8804bc04dc09a2d8c78c696e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'decf4ae6e98f26590f9199940dc02f45') in 0.627819 seconds
+  Import took 0.633867 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 289.232264 seconds.
-  path: Assets/Materials/Blue part of houses.mat
-  artifactKey: Guid(edb7a8ab906194722abb3949b93698f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Blue part of houses.mat using Guid(edb7a8ab906194722abb3949b93698f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b3df04fe7baff95a8424918245064e') in 0.024765 seconds
-  Import took 0.033497 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000568 seconds.
-  path: Assets/Materials/Player Blue House color.mat
-  artifactKey: Guid(9692b46242fa5487ebd4454dc691fcdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Player Blue House color.mat using Guid(9692b46242fa5487ebd4454dc691fcdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d87abffde9ee1d9e57cc0dca3eba23') in 0.015804 seconds
-  Import took 0.026897 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 677.105528 seconds.
-  path: Assets/Materials/Blue part of houses.mat
-  artifactKey: Guid(edb7a8ab906194722abb3949b93698f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Blue part of houses.mat using Guid(edb7a8ab906194722abb3949b93698f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70ea3ae611afc9d80da39b569af5ef4') in 0.019554 seconds
-  Import took 0.025719 seconds .
+  Time since last request: 367.018960 seconds.
+  path: Assets/Materials/Pokemon Roof.mat
+  artifactKey: Guid(607ecd8804bc04dc09a2d8c78c696e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Pokemon Roof.mat using Guid(607ecd8804bc04dc09a2d8c78c696e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc7bc78e5b283190ec917a36a733a0c8') in 0.037922 seconds
+  Import took 0.045669 seconds .
 
