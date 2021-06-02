@@ -1,0 +1,134 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/hnock23/Desktop/Pallet-Town-UnityProject/Adventure Quest (Test)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61654
+Successfully changed project path to: /Users/hnock23/Desktop/Pallet-Town-UnityProject/Adventure Quest (Test)
+/Users/hnock23/Desktop/Pallet-Town-UnityProject/Adventure Quest (Test)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/hnock23/Desktop/Pallet-Town-UnityProject/Adventure Quest (Test)/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-31 12:12:18.446 Unity[68580:2492906] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-31 12:12:18.446 Unity[68580:2492906] Metal devices available: 1
+2021-05-31 12:12:18.446 Unity[68580:2492906] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-05-31 12:12:18.447 Unity[68580:2492906] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56580
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.2f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004200 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 44.75 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.264 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006450 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 46.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.417 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 144.4 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2252.
+Total: 3.941249 ms (FindLiveObjects: 0.417231 ms CreateObjectMapping: 0.175562 ms MarkObjects: 3.201358 ms  DeleteObjects: 0.145916 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/PlayerMovement.cs
+  artifactKey: Guid(a0ae3a844c75142ae9020e94c5834295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovement.cs using Guid(a0ae3a844c75142ae9020e94c5834295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243c492d06074240ec966681ebd06a2d') in 0.672373 seconds
+  Import took 0.677463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.005647 seconds.
+  path: Assets/2D-Character-Controller-master/CharacterController2D.cs
+  artifactKey: Guid(9104428ff71f0400cbfedf37da85ce7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D-Character-Controller-master/CharacterController2D.cs using Guid(9104428ff71f0400cbfedf37da85ce7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97097feb28d733e424d101ed7043138') in 0.003346 seconds
+  Import took 0.007718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005940 seconds.
+  path: Assets/2D-Character-Controller-master/CharacterController2D.cs
+  artifactKey: Guid(9104428ff71f0400cbfedf37da85ce7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2D-Character-Controller-master/CharacterController2D.cs using Guid(9104428ff71f0400cbfedf37da85ce7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97097feb28d733e424d101ed7043138') in 0.001604 seconds
+  Import took 0.004600 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.708 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.0 MB.
+System memory in use after: 148.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 3.645814 ms (FindLiveObjects: 0.591654 ms CreateObjectMapping: 0.153688 ms MarkObjects: 2.777748 ms  DeleteObjects: 0.121312 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.394670 seconds.
+  path: Assets/Animation/Player.controller
+  artifactKey: Guid(097109b357f404b82b160e3a64ce5fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Player.controller using Guid(097109b357f404b82b160e3a64ce5fcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f89f2cdb1042208b7d71e2d14f91da3') in 0.623881 seconds
+  Import took 0.631307 seconds .
+
