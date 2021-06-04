@@ -36,15 +36,18 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
-     <Compile Include="Assets\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
      <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeTransforms.cs" />
-     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
-     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBox.cs" />
-     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Core\FlagEnumAttribute.cs" />
+     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\LPV.cs" />
      <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBase.cs" />
+     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Core\FlagEnumAttribute.cs" />
      <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeHelper.cs" />
+     <Compile Include="Assets\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WaterVolumeBox.cs" />
+     <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\VFX\StylisedWater\WateverVolumeFloater.cs" />
+     <None Include="Assets\Nicrom\PolyPacks\Wind\Documentation\LPW_Log.txt" />
+     <None Include="Assets\Nicrom\PolyPacks\Wind\Assets\Shaders\ASE\LPW_Vegetation.shader" />
      <None Include="Assets\StoneWalls\readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>

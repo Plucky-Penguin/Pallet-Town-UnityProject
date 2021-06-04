@@ -36,8 +36,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
      <Compile Include="Assets\Bitgem\StylisedWater\URP\Scripts\Bitgem\Editor\FlagEnumAttributeDrawer.cs" />
+     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+     <Compile Include="Assets\Nicrom\PolyPacks\Wind\Assets\Scripts\Editor\LPVegetation_MaterialInspector.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2020.3.2f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
